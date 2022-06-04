@@ -33,9 +33,6 @@ Here are some ideas to get you started:
     JavaScript
     Gulp
     Bootstrap
-    Figma
-    Adobe Photoshop
-    Adobe XD
 
 Верстка согласно стандартов: адаптивная и кросcбраузерная.
 
